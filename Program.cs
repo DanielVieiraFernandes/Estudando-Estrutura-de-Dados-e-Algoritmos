@@ -1,5 +1,7 @@
 ﻿class Program
 {
+    // O objetivo deste código é implementar uma busca binária recursiva para encontrar um número em um vetor ordenado.
+    // O código original tinha uma implementação incorreta da busca binária, que foi substituída por uma versão correta.
 
     //public static void compararNumero(int[] vetor, int numero, int inicio, int fim)
     //{
